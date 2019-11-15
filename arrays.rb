@@ -9,3 +9,4 @@ puts "Enter a third word"
 user_input = gets.chomp
 a << user_input
 puts a.inspect
+

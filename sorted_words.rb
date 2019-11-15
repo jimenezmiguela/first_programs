@@ -8,4 +8,3 @@ loop do
     else words << word
     end
 end
-
